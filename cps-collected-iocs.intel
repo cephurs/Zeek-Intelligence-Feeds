@@ -300,9 +300,7 @@ b08825aa26a46a1b6cbec2e5f4b5ebff	Intel::FILE_HASH	CRITICAL-PATH-DEFENSE-SYSTEMS	
 179.43.128.5	Intel::ADDR	CPS-CTI	F	CPS-RYUK-IOCS
 179.43.128.3	Intel::ADDR	CPS-CTI	F	CPS-RYUK-IOCS
 81.17.28.122	Intel::ADDR	CPS-CTI	F	CPS-RYUK-IOCS
-/THREAT-INTELLIGENCE/_work/criticalpathsecurity-ryuk--domain-iocs.intel
 updatemanagir.us	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
-cmdupdatewin.com	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
 scrservallinst.info	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
 winsystemupdate.com	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
 jomamba.best	Intel::DOMAIN	CPS-CTI	F	CPS-RYUK-IOCS
